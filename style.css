@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+.container{
+    outline: 2px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0;
+    flex-basis: 0;
+}
+.btn{
+    border: 2px solid blue;
+    border-radius: 5px;
+    padding: 16px 20px;
+    background: #fff;
+    color: blue;
+}
+.btn:hover{
+    color: white;
+    background: blue;
+    /* transition: 500ms ease-out; */
+}
+.pixel{
+    outline: 1px solid #eee;
+}
+.pixel:hover{
+    background: blue;
+    transition: 1s linear;
+    /* transition-duration: 1s; */
+}
