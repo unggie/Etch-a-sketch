@@ -16,7 +16,7 @@ This is a simple **JavaScript-powered grid generator** that allows users to inte
 
 ## 🖥️ Demo/Visual
 ![Screenshot of the project](./image/image.png)
-![Live demo](https://unggie.github.io/Etch-a-sketch/)
+Live demo: [Live demo](https://unggie.github.io/Etch-a-sketch/)
 > You can interact with the grid in your browser: hover over the squares to "draw".
 
 ---
